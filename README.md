@@ -1,1 +1,3 @@
-"# PrediMatch" 
+# PrediMatch
+
+Soccer prediction demo app.
